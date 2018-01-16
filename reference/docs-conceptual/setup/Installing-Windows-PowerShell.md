@@ -6,11 +6,11 @@ title:  Installing Windows PowerShell
 
 # Installing Windows PowerShell
 
-PowerShell comes installed by default in every Windows,
+PowerShell comes installed by default in every version of Windows,
 starting with Windows 7 SP1 and Windows Server 2008 R2 SP1.
 
 Linux, macOS, and Windows users that would like to install **PowerShell 6** (beta),
-in their machines, need to:
+on their machines, need to:
 
 1. Get PowerShell for the specific OS and version, from [GitHub](https://github.com/powershell/powershell#get-powershell)
 1. Follow the installation instructions
@@ -23,9 +23,9 @@ see [Docker installation](https://github.com/PowerShell/PowerShell/tree/master/d
 
 ## Finding PowerShell in Windows 10, 8.1, 8.0, and 7
 
-Sometimes locating PowerShell console or ISE (Integrated Scripting
+Sometimes, locating PowerShell console or ISE (Integrated Scripting
 Environment) in Windows can be difficult,
-as it's location moves from one version of Windows to the next.
+as its location moves from one version of Windows to the next.
 
 The following tables should help you find PowerShell in your Windows version.
 All versions listed here are the original version, as released,
